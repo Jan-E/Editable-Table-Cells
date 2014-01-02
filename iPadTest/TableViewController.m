@@ -42,9 +42,7 @@
     // Uncomment the following line to preserve selection between presentations.
     // self.clearsSelectionOnViewWillAppear = NO;
     
-    // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     self.navigationItem.leftBarButtonItem = self.editButtonItem;
-    
     self.tableView.allowsSelectionDuringEditing = YES;
 }
 
@@ -81,7 +79,21 @@
 
 - (IBAction)editButtonPressed:(id)sender {
  
-    NSLog(@"Edit button was pressed");
+}
+
+- (void)setEditing:(BOOL)editing animated:(BOOL)animated {
+    
+    // overriding this method means we can attach custom functions to this button
+    [super setEditing:editing animated:animated];
+    
+    // attaching custom actions here
+    if (editing) {
+        //
+        
+    } else {
+        //
+        
+    }
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {

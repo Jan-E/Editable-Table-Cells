@@ -19,6 +19,7 @@
     self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
     if (self) {
         // Initialization code
+        
     }
     return self;
 }
@@ -34,5 +35,6 @@
 
     // Configure the view for the selected state
 }
+
 
 @end
