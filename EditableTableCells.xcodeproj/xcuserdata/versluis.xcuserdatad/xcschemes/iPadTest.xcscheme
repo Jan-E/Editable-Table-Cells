@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2FC2F681875C8C900E23306"
                BuildableName = "iPadTest.app"
-               BlueprintName = "iPadTest"
-               ReferencedContainer = "container:iPadTest.xcodeproj">
+               BlueprintName = "EditableTableCells"
+               ReferencedContainer = "container:EditableTableCells.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D2FC2F891875C8CA00E23306"
                BuildableName = "iPadTestTests.xctest"
-               BlueprintName = "iPadTestTests"
-               ReferencedContainer = "container:iPadTest.xcodeproj">
+               BlueprintName = "EditableTableCellsTests"
+               ReferencedContainer = "container:EditableTableCells.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2FC2F681875C8C900E23306"
             BuildableName = "iPadTest.app"
-            BlueprintName = "iPadTest"
-            ReferencedContainer = "container:iPadTest.xcodeproj">
+            BlueprintName = "EditableTableCells"
+            ReferencedContainer = "container:EditableTableCells.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2FC2F681875C8C900E23306"
             BuildableName = "iPadTest.app"
-            BlueprintName = "iPadTest"
-            ReferencedContainer = "container:iPadTest.xcodeproj">
+            BlueprintName = "EditableTableCells"
+            ReferencedContainer = "container:EditableTableCells.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D2FC2F681875C8C900E23306"
             BuildableName = "iPadTest.app"
-            BlueprintName = "iPadTest"
-            ReferencedContainer = "container:iPadTest.xcodeproj">
+            BlueprintName = "EditableTableCells"
+            ReferencedContainer = "container:EditableTableCells.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

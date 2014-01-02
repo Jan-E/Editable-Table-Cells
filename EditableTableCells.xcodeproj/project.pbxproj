@@ -36,23 +36,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D2FC2F691875C8C900E23306 /* iPadTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPadTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2FC2F691875C8C900E23306 /* EditableTableCells.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EditableTableCells.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2FC2F6C1875C8C900E23306 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D2FC2F6E1875C8C900E23306 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		D2FC2F701875C8C900E23306 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		D2FC2F741875C8C900E23306 /* iPadTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTest-Info.plist"; sourceTree = "<group>"; };
+		D2FC2F741875C8C900E23306 /* EditableTableCells-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EditableTableCells-Info.plist"; sourceTree = "<group>"; };
 		D2FC2F761875C8C900E23306 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D2FC2F781875C8C900E23306 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D2FC2F7A1875C8C900E23306 /* iPadTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iPadTest-Prefix.pch"; sourceTree = "<group>"; };
+		D2FC2F7A1875C8C900E23306 /* EditableTableCells-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EditableTableCells-Prefix.pch"; sourceTree = "<group>"; };
 		D2FC2F7B1875C8C900E23306 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D2FC2F7C1875C8C900E23306 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D2FC2F7F1875C8C900E23306 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D2FC2F811875C8C900E23306 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D2FC2F821875C8C900E23306 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D2FC2F841875C8C900E23306 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D2FC2F8A1875C8CA00E23306 /* iPadTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPadTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2FC2F8A1875C8CA00E23306 /* EditableTableCellsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EditableTableCellsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2FC2F8B1875C8CA00E23306 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		D2FC2F931875C8CA00E23306 /* iPadTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTestTests-Info.plist"; sourceTree = "<group>"; };
+		D2FC2F931875C8CA00E23306 /* EditableTableCellsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EditableTableCellsTests-Info.plist"; sourceTree = "<group>"; };
 		D2FC2F951875C8CA00E23306 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D2FC2F971875C8CA00E23306 /* iPadTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPadTestTests.m; sourceTree = "<group>"; };
 		D2FC2FA11875C91800E23306 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
@@ -98,8 +98,8 @@
 		D2FC2F6A1875C8C900E23306 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D2FC2F691875C8C900E23306 /* iPadTest.app */,
-				D2FC2F8A1875C8CA00E23306 /* iPadTestTests.xctest */,
+				D2FC2F691875C8C900E23306 /* EditableTableCells.app */,
+				D2FC2F8A1875C8CA00E23306 /* EditableTableCellsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -136,10 +136,10 @@
 		D2FC2F731875C8C900E23306 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D2FC2F741875C8C900E23306 /* iPadTest-Info.plist */,
+				D2FC2F741875C8C900E23306 /* EditableTableCells-Info.plist */,
 				D2FC2F751875C8C900E23306 /* InfoPlist.strings */,
 				D2FC2F781875C8C900E23306 /* main.m */,
-				D2FC2F7A1875C8C900E23306 /* iPadTest-Prefix.pch */,
+				D2FC2F7A1875C8C900E23306 /* EditableTableCells-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -156,7 +156,7 @@
 		D2FC2F921875C8CA00E23306 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D2FC2F931875C8CA00E23306 /* iPadTestTests-Info.plist */,
+				D2FC2F931875C8CA00E23306 /* EditableTableCellsTests-Info.plist */,
 				D2FC2F941875C8CA00E23306 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -165,9 +165,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D2FC2F681875C8C900E23306 /* iPadTest */ = {
+		D2FC2F681875C8C900E23306 /* EditableTableCells */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D2FC2F9B1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "iPadTest" */;
+			buildConfigurationList = D2FC2F9B1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "EditableTableCells" */;
 			buildPhases = (
 				D2FC2F651875C8C900E23306 /* Sources */,
 				D2FC2F661875C8C900E23306 /* Frameworks */,
@@ -177,14 +177,14 @@
 			);
 			dependencies = (
 			);
-			name = iPadTest;
+			name = EditableTableCells;
 			productName = iPadTest;
-			productReference = D2FC2F691875C8C900E23306 /* iPadTest.app */;
+			productReference = D2FC2F691875C8C900E23306 /* EditableTableCells.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D2FC2F891875C8CA00E23306 /* iPadTestTests */ = {
+		D2FC2F891875C8CA00E23306 /* EditableTableCellsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D2FC2F9E1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "iPadTestTests" */;
+			buildConfigurationList = D2FC2F9E1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "EditableTableCellsTests" */;
 			buildPhases = (
 				D2FC2F861875C8CA00E23306 /* Sources */,
 				D2FC2F871875C8CA00E23306 /* Frameworks */,
@@ -195,9 +195,9 @@
 			dependencies = (
 				D2FC2F901875C8CA00E23306 /* PBXTargetDependency */,
 			);
-			name = iPadTestTests;
+			name = EditableTableCellsTests;
 			productName = iPadTestTests;
-			productReference = D2FC2F8A1875C8CA00E23306 /* iPadTestTests.xctest */;
+			productReference = D2FC2F8A1875C8CA00E23306 /* EditableTableCellsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -214,7 +214,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D2FC2F641875C8C900E23306 /* Build configuration list for PBXProject "iPadTest" */;
+			buildConfigurationList = D2FC2F641875C8C900E23306 /* Build configuration list for PBXProject "EditableTableCells" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -227,8 +227,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D2FC2F681875C8C900E23306 /* iPadTest */,
-				D2FC2F891875C8CA00E23306 /* iPadTestTests */,
+				D2FC2F681875C8C900E23306 /* EditableTableCells */,
+				D2FC2F891875C8CA00E23306 /* EditableTableCellsTests */,
 			);
 		};
 /* End PBXProject section */
@@ -280,7 +280,7 @@
 /* Begin PBXTargetDependency section */
 		D2FC2F901875C8CA00E23306 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D2FC2F681875C8C900E23306 /* iPadTest */;
+			target = D2FC2F681875C8C900E23306 /* EditableTableCells */;
 			targetProxy = D2FC2F8F1875C8CA00E23306 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -393,9 +393,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iPadTest/iPadTest-Prefix.pch";
-				INFOPLIST_FILE = "iPadTest/iPadTest-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iPadTest/EditableTableCells-Prefix.pch";
+				INFOPLIST_FILE = "iPadTest/EditableTableCells-Info.plist";
+				PRODUCT_NAME = EditableTableCells;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -406,9 +406,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "iPadTest/iPadTest-Prefix.pch";
-				INFOPLIST_FILE = "iPadTest/iPadTest-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "iPadTest/EditableTableCells-Prefix.pch";
+				INFOPLIST_FILE = "iPadTest/EditableTableCells-Info.plist";
+				PRODUCT_NAME = EditableTableCells;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -429,8 +429,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "iPadTestTests/iPadTestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "iPadTestTests/EditableTableCellsTests-Info.plist";
+				PRODUCT_NAME = EditableTableCellsTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -448,8 +448,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iPadTest/iPadTest-Prefix.pch";
-				INFOPLIST_FILE = "iPadTestTests/iPadTestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "iPadTestTests/EditableTableCellsTests-Info.plist";
+				PRODUCT_NAME = EditableTableCellsTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -458,7 +458,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D2FC2F641875C8C900E23306 /* Build configuration list for PBXProject "iPadTest" */ = {
+		D2FC2F641875C8C900E23306 /* Build configuration list for PBXProject "EditableTableCells" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D2FC2F991875C8CA00E23306 /* Debug */,
@@ -467,21 +467,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D2FC2F9B1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "iPadTest" */ = {
+		D2FC2F9B1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "EditableTableCells" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D2FC2F9C1875C8CA00E23306 /* Debug */,
 				D2FC2F9D1875C8CA00E23306 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		D2FC2F9E1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "iPadTestTests" */ = {
+		D2FC2F9E1875C8CA00E23306 /* Build configuration list for PBXNativeTarget "EditableTableCellsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D2FC2F9F1875C8CA00E23306 /* Debug */,
 				D2FC2FA01875C8CA00E23306 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
