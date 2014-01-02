@@ -13,8 +13,6 @@
 
 @property (nonatomic, strong) NSArray *tableData;
 
-- (IBAction)editButtonPressed:(id)sender;
-
 @end
 
 @implementation TableViewController
@@ -75,10 +73,6 @@
     cell.textField.text = [self.tableData objectAtIndex:indexPath.row];
     
     return cell;
-}
-
-- (IBAction)editButtonPressed:(id)sender {
- 
 }
 
 - (void)setEditing:(BOOL)editing animated:(BOOL)animated {

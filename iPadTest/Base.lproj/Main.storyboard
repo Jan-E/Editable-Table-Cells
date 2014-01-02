@@ -42,11 +42,7 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="TALK!" id="Rpw-jy-3j9">
-                        <barButtonItem key="leftBarButtonItem" systemItem="edit" id="6VV-Aw-2HQ">
-                            <connections>
-                                <action selector="editButtonPressed:" destination="vrD-b9-Jdr" id="qFD-5k-FsT"/>
-                            </connections>
-                        </barButtonItem>
+                        <barButtonItem key="leftBarButtonItem" systemItem="edit" id="6VV-Aw-2HQ"/>
                     </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uBt-J9-4oc" userLabel="First Responder" sceneMemberID="firstResponder"/>
