@@ -21,6 +21,8 @@
 		D2FC2F8E1875C8CA00E23306 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D2FC2F701875C8C900E23306 /* UIKit.framework */; };
 		D2FC2F961875C8CA00E23306 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D2FC2F941875C8CA00E23306 /* InfoPlist.strings */; };
 		D2FC2F981875C8CA00E23306 /* iPadTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FC2F971875C8CA00E23306 /* iPadTestTests.m */; };
+		D2FC2FA31875C91800E23306 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FC2FA21875C91800E23306 /* TableViewController.m */; };
+		D2FC2FA61875CBFD00E23306 /* EditableTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D2FC2FA51875CBFD00E23306 /* EditableTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,10 @@
 		D2FC2F931875C8CA00E23306 /* iPadTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPadTestTests-Info.plist"; sourceTree = "<group>"; };
 		D2FC2F951875C8CA00E23306 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D2FC2F971875C8CA00E23306 /* iPadTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPadTestTests.m; sourceTree = "<group>"; };
+		D2FC2FA11875C91800E23306 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		D2FC2FA21875C91800E23306 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		D2FC2FA41875CBFD00E23306 /* EditableTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EditableTableViewCell.h; sourceTree = "<group>"; };
+		D2FC2FA51875CBFD00E23306 /* EditableTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditableTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +123,10 @@
 				D2FC2F7E1875C8C900E23306 /* Main.storyboard */,
 				D2FC2F811875C8C900E23306 /* ViewController.h */,
 				D2FC2F821875C8C900E23306 /* ViewController.m */,
+				D2FC2FA11875C91800E23306 /* TableViewController.h */,
+				D2FC2FA21875C91800E23306 /* TableViewController.m */,
+				D2FC2FA41875CBFD00E23306 /* EditableTableViewCell.h */,
+				D2FC2FA51875CBFD00E23306 /* EditableTableViewCell.m */,
 				D2FC2F841875C8C900E23306 /* Images.xcassets */,
 				D2FC2F731875C8C900E23306 /* Supporting Files */,
 			);
@@ -252,6 +262,8 @@
 				D2FC2F831875C8C900E23306 /* ViewController.m in Sources */,
 				D2FC2F7D1875C8C900E23306 /* AppDelegate.m in Sources */,
 				D2FC2F791875C8C900E23306 /* main.m in Sources */,
+				D2FC2FA61875CBFD00E23306 /* EditableTableViewCell.m in Sources */,
+				D2FC2FA31875C91800E23306 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
